@@ -1,3 +1,3 @@
-#Entity relationship diagrams
+# Entity relationship diagrams
 
-Drawing and building ERD by using applicaition named "Draw.io"
+Drawing and building ERD by using an application named "Draw.io"
